@@ -2,9 +2,7 @@
   "name": "adminbsb-materialdesign",
   "version": "1.0.4",
   "main": "js/admin.js",
-  "authors": [
-    "Güray Yarar"
-  ],
+ 
 
   "moduleType": [],
   "ignore": [
